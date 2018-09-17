@@ -1,5 +1,5 @@
 # DeathRace-Car_Racing_Game
-SJSU CMPE 244 Project
+SJSU CMPE 244 (Embedded Software) Project
 
 Death Race - A Car Racing Game running on FreeRTOS
 
@@ -20,3 +20,11 @@ Link to project details and more information: http://socialledge.com/sjsu/index.
 Link to GitLab project repository: https://gitlab.com/Magnumopus244/DeathRace
 
 Link to project video: https://www.youtube.com/watch?v=jbGvOdyTFEc&feature=youtu.be
+
+Technologies used:
+* FreeRTOS
+* C/C++
+* Device drivers
+* LED display Matrix
+* PCB design
+* GIT
